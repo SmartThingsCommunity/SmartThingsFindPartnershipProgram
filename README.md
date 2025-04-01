@@ -30,5 +30,5 @@ By joining our private partnership program, you will receive:
 
 ## How to Join
 
-If you have any queries that aren't listed here, please don't hesitate to contact our technical support team at partners@smartthings.com.
+If you want to participate in the partnership program, please apply by partners@smartthings.com mail. Also send email if you have any queries that aren't listed here.
 We look forward to working with you to bring the power of SmartThings Find to your devices!
