@@ -1,0 +1,17 @@
+manifest:
+  self:
+    path: SmartThingsFindPartnershipProgram
+  remotes:
+    - name: ncs
+      url-base: https://github.com/nrfconnect
+    - name: stf
+      url-base: https://github.ecodesamsung.com/NordicSemi-STF-Partnership
+  projects:
+    - name: nrf
+      remote: ncs
+      repo-path: sdk-nrf
+      revision: v2.8.0-rc2
+      import: true
+    - name: tag-sdk
+      remote: stf
+      repo-path: TagSDK
