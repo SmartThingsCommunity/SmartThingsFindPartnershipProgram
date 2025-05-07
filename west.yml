@@ -10,7 +10,7 @@ manifest:
     - name: nrf
       remote: ncs
       repo-path: sdk-nrf
-      revision: v2.8.0-rc2
+      revision: v2.9.0
       import: true
     - name: tag-sdk
       remote: stf
