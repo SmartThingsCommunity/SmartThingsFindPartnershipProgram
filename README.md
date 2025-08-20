@@ -6,6 +6,7 @@ We're excited to partner with you to bring the power of SmartThings Find to your
 This program allows you to integrate your devices with the SmartThings Find service, enabling users to easily locate their lost or misplaced items.
 
 ## What is SmartThings Find?
+<img width="90%" height="auto" alt="image" src="https://github.com/user-attachments/assets/63f9aaee-2ab9-481e-a8e6-fe64979bfb02" />
 
 SmartThings Find is a service that helps you find your precious things easily and quickly.
 It allows you to find everything with the SmartThings Find device as well as Galaxy devices. With SmartThings Find, you can locate your missing device, even if it is offline. SmartThings users can opt in to securely use their Galaxy smartphone or tablet to help others locate their lost devices. Once a device has been offline, it produces a BLE signal that can be received by other devices. If you report your device as lost via SmartThings Find, the signal can be detected by other Galaxy devices, which will then send the location data back to the SmartThings Find service.
